@@ -1,91 +1,22 @@
-# Nuxt UI Minimal Starter
+# MediBox.kz
 
-Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui.nuxt.com) to learn more.
+**MediBox.kz** is an online platform that aims to simplify access to healthcare services in Kazakhstan. It provides users with a seamless experience for booking medical appointments, purchasing medications, and renting medical equipment and spaces. The goal of MediBox is to ensure transparency in the medical services and products market, offering users a quick and easy way to compare options and make informed decisions.
 
-## Setup
+## Features
 
-Make sure to install the dependencies:
+- **Clinics**: Compare prices and reviews of medical services to find the best option for your needs.
+- **Pharmacies**: Easily purchase medications, supplements, and other health-related products with quick home delivery.
+- **Booking Medical Services**: Book appointments for medical consultations, treatments, and procedures.
+- **Renting Medical Equipment and Spaces**: Rent medical equipment or spaces for healthcare-related needs.
 
-### node version
+## Project Goals
 
-## v20.11.0
+The primary goal of **MediBox.kz** is to simplify and improve the healthcare experience by providing a comprehensive platform for:
 
-### npm version
+- Searching and comparing medical services and pharmacies.
+- Easily booking medical services and renting necessary medical equipment and spaces.
+- Ensuring transparency and accessibility for users in Kazakhstan's healthcare system.
 
-## v10.5.2
+## Technologies Used
 
-```bash
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-
-# Server deploy
-
-```
-npm run build
-pm2 restart all
-```
+- **Frontend**: Vue.js, Nuxt.js, Tailwind CSS
