@@ -1,4 +1,4 @@
-# MediBox.kz
+# MediBox.kz <img src="assets/svg/common/logo.svg" alt="MediBox Icon" width="50" height="50" />
 
 **MediBox.kz** is an online platform that aims to simplify access to healthcare services in Kazakhstan. It provides users with a seamless experience for booking medical appointments, purchasing medications, and renting medical equipment and spaces. The goal of MediBox is to ensure transparency in the medical services and products market, offering users a quick and easy way to compare options and make informed decisions.
 
